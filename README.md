@@ -6,7 +6,7 @@ This project implements three AI agents for an AI-orchestrated, blockchain-backe
 [Click Here](https://drive.google.com/drive/folders/1-KGQXpb_FASnwOIbNiGCVGPtMZRSrMTU?usp=sharing)
 
 ## Architecture Diagram
-(kafka_diagram.png)
+![img](kafka_diagram.png)
 
 ## Project Overview
 
