@@ -2,6 +2,9 @@
 
 This project implements three AI agents for an AI-orchestrated, blockchain-backed payment continuity system. The system ensures successful transactions even during bank server downtimes by leveraging blockchain liquidity pools as a fallback.
 
+## Prototype Demo
+[Click Here](https://drive.google.com/drive/folders/1-KGQXpb_FASnwOIbNiGCVGPtMZRSrMTU?usp=sharing)
+
 ## Project Overview
 
 The core idea is to use AI agents to monitor bank services, route transactions appropriately (to bank or blockchain), manage recovery processes, and optimize liquidity pool usage. These agents interact with each other and external systems via Kafka and Redis, and call blockchain functions exposed by a React frontend.
