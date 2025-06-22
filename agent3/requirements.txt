@@ -1,0 +1,8 @@
+# Minimal requirements for maximum compatibility
+fastapi
+uvicorn
+web3
+redis
+python-dotenv
+pydantic
+langgraph
